@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Berkeli</h1>
+<h1 align="center">Hi 👋, I'm Gabriel</h1>
 
 <!--<img src="https://raw.githubusercontent.com/berkeli/berkeli/main/assets/header.jpg" align="center" alt="berkeli header image">-->
 
@@ -123,12 +123,12 @@
 
 ### 💻 Profile Stats
 
-<img alt="Berkeli's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=berkeli&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/><img alt="Berkeli's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=berkeli&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
+<img alt="Berkeli's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=G-GuerraTW&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/><img alt="Gabriel's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=G-GuerraTW&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
 
 
 ### 🔥 Streak Stats
 
-![Berkeli's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=berkeli&theme=tokyonight)
+![Berkeli's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=G-GuerraTW&theme=tokyonight)
 
 ### 📊 Contribution Stats
 
