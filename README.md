@@ -15,10 +15,6 @@
 ### 👨‍💻 About Me
 - 🔭 Atualmente trabalhando em projetos pessoais e estudos avançados.
 - 🌱 Aprendendo **TypeScript, Node.js, Docker e arquitetura de microsserviços**.
-- 💬 Pergunte-me sobre **React, JavaScript, APIs REST ou PostgreSQL**.
-- 📫 Como me alcançar: **seu-email@exemplo.com**.
-- ⚡ Curiosidade: Apaixonado por resolver problemas complexos e aprender novas tecnologias.
-
 ---
 
 ## 🛠 Tech Stack
