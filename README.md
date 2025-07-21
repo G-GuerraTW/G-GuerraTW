@@ -13,30 +13,36 @@
 ---
 
 ### 👨‍💻 About Me
-- 🔭 Atualmente trabalhando em projetos pessoais e estudos avançados.
-- 🌱 Aprendendo **TypeScript, Node.js, Docker e arquitetura de microsserviços**.
+- 🔭 Atualmente trabalhando em projetos pessoais e estudos avançados
+- 🌱 Aprendendo **TypeScript, Node.js, Docker e APIs REST**
+- �‍💻 Proficiente em **Linux e scripts Bash**
+- 🧪 Próximos objetivos: **Testes unitários no backend e GitHub Actions**
+
 ---
 
 ## 🛠 Tech Stack
 ### Linguagens e Frameworks
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
-![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Angular](https://img.shields.io/badge/-Angular-000?&logo=Angular&logoColor=DD0031)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=Node.js)
 ![Express](https://img.shields.io/badge/-Express-000?&logo=Express)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
 
 ### Ferramentas e DevOps
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+![Bash](https://img.shields.io/badge/-Bash-000?&logo=GNU-Bash)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-000?&logo=GitHub-Actions)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-000?&logo=Visual-Studio-Code)
 
 ---
 
 ## 🌱 Meus Projetos de Estudo
 Confira meus projetos de aprendizado e experimentos:
-- [Repositório de Estudos](https://github.com/G-GuerraTW/Estudo): Práticas em React, Node.js, TypeScript e bancos de dados.
+- [Repositório de Estudos](https://github.com/G-GuerraTW/Estudo): Práticas em Angular, Node.js, TypeScript e bancos de dados.
 
 ---
 
