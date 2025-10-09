@@ -1,5 +1,3 @@
-# Perfil Principal do GitHub de Gabriel Guerra
-
 <div align="center">
   <h1 align="center">Olá 👋, meu nome é Gabriel Guerra</h1>
   <h3 align="center">Desenvolvedor Full-Stack e SysAdmin | Entusiasta de Arquitetura de Software e Infraestrutura.</h3>
